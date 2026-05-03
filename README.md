@@ -165,9 +165,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Denekimoff&show_icons=true&locale=en&layout=compact&theme=react" alt="ekimov-stack" />
 </a>
 
-- :airplane: &nbsp;**[Telegram](https://t.me/DenUu2020)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/dengerousmit/)**
-
 <br>
 
 <!--
