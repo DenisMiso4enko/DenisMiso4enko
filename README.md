@@ -155,16 +155,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-## :comet: Contact
-
-<a href="#my-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Denekimoff&show_icons=true&locale=en&layout=compact&theme=react" alt="ekimov-stack" />
-</a>
-
 <br>
 
 <!--
