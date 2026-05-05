@@ -94,16 +94,6 @@ Also developing in **Next.js (SSR/ISR)** and **React Native**, applying them in 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMiso4enko&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMiso4enko&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ---
 
 ## 🌍 Languages
