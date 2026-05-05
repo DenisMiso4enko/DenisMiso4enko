@@ -1,164 +1,118 @@
+<div align="center">
 
-<h1 align="center">:wave: Hello there! I'm Denis Misochenko</h1>
+# Hi, I'm Denis Misochenko 👋
 
-<h4 align="left">I'm a Front-end Web Developer from Belarus  &#127463;&#127486;</h4>
+### Frontend Developer · React / Next.js / TypeScript
 
-<h2 align="left" id="my-stack">Tech stack</h2>
+📍 Minsk, Belarus &nbsp;|&nbsp; 🌍 Open to relocation &nbsp;|&nbsp; 💼 Open to work
 
-> General
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#my-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#my-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-      <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-     <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
-</table>
+[![Telegram](https://img.shields.io/badge/Telegram-@d__m5max-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/d_m5max)
+[![Email](https://img.shields.io/badge/Email-denrrmisochenko17@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denrrmisochenko17@gmail.com)
 
-> Code quality
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-  </tr>
-</table>
+</div>
 
-> Frontend
-<table width='100%'>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#my-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr>
-</table>
+---
 
-> Backend
-<table width='100%'>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://brandeps.com/logo-download/M/MongoDB-logo-vector-01.svg" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#my-stack" >
-        <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Express
-    </td>
-  </tr>
-</table>
-<br>
+## 🧠 About me
 
-<!--
-**DenisMiso4enko/DenisMiso4enko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer with **2+ years** of commercial experience building high-load web applications in **iGaming**.
 
+Specialised in **React / Next.js / TypeScript**. Focus on performance, scalability, and UI quality — reducing re-renders, improving load speed, building reusable components, working with server state (TanStack React Query).
 
+Also developing in **Next.js (SSR/ISR)** and **React Native**, applying them in fullstack pet projects.
 
+---
+
+## 🛠 Tech Stack
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**State & Data**
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-brown?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-005C84?style=flat)
+
+**Styling**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Animation & UX**
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=swiper&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+
+**Backend (basic)**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+## 🚀 Projects
+
+### 🔧 [AutoStore — Fullstack E-commerce for Auto Parts](https://next-autos-tau.vercel.app/)
+
+> Next.js · TypeScript · Prisma · PostgreSQL · Tailwind
+
+- Fullstack app on **Next.js App Router** with SSR/ISR for SEO and performance
+- Backend logic and DB design: **PostgreSQL + Prisma**
+- Admin panel with full **CRUD** for product management
+- Product filtering with **URL state persistence**, pagination, optimised data fetching
+- Third-party integrations: **currency widget**, **Yandex Maps**
+
+---
+
+### 📱 [Calorie Tracker — React Native App](https://github.com/DenisMiso4enko/calories-app)
+
+> React Native · TypeScript · Prisma · PostgreSQL
+
+- Mobile app for tracking calories and macronutrients (КБЖУ)
+- Auth, user data storage, remote database integration
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMiso4enko&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMiso4enko&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🌍 Languages
+
+- 🇷🇺 Russian — Native
+- 🇬🇧 English — B1 (improving)
+
+---
+
+<div align="center">
+  <sub>Open to remote opportunities · Ready to relocate to Poland 🇵🇱</sub>
+</div>
